@@ -1,0 +1,10 @@
+
+.sammy-nowrap-1 {
+    border-radius: 6px;
+    background-color: aliceblue;
+    border: 2px dashed gray;
+    max-width: 70%;
+    padding: 1em;
+    margin-bottom: .4em;
+    white-space: nowrap;
+}
